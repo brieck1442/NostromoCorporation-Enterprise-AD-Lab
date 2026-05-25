@@ -191,5 +191,4 @@ SLAs
 - Azure AD / Entra ID integration
 - Hybrid identity
 - WSUS deployment
-- Ticketing System
 - SIEM integration
