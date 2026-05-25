@@ -35,7 +35,6 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - Group Policy Objects
 - VPN Users
 - Nested Groups
-- Disabled User Management
 - Onboarding Workflow
 - Role-Based Access Controls
 
