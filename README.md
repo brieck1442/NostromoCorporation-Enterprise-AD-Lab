@@ -77,10 +77,39 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 ---
 
 ## Result Screenshots
-/Domain Controller Shared Folder Server
-<img width="1013" height="764" alt="salesdriveonwindwosVm10" src="https://github.com/user-attachments/assets/8cb057d1-dd2c-485b-9a1b-00b1e45bc19c" />
+<img width="337" height="181" alt="welcome" src="https://github.com/user-attachments/assets/a4553575-82c5-464d-b5a3-69c676614549" />
 
 
+
+
+<img width="1896" height="1068" alt="joining of domain" src="https://github.com/user-attachments/assets/f77aa814-1ae8-4870-b97a-bdd513e21234" />
+
+
+
+
+/Groups
+<img width="1693" height="988" alt="groups" src="https://github.com/user-attachments/assets/ddee7f47-0627-4ce7-a45f-a151279ad1ec" />
+
+
+
+
+
+
+/Users
+<img width="1716" height="951" alt="users" src="https://github.com/user-attachments/assets/bdac08ff-0721-4415-b16b-6a6104144c43" />
+
+
+
+
+
+//<img width="1028" height="778" alt="group policy management " src="https://github.com/user-attachments/assets/a2f65ece-5c63-46cd-9d7c-ccd7d2bf3a12" />
+GPO overview
+
+
+
+
+//mapping hard drive H for HR
+<img width="1028" height="776" alt="GpHdrivemapping" src="https://github.com/user-attachments/assets/7c3d84e9-4ef5-4997-baa4-9eb9ee0614e2" />
 
 
 
@@ -104,9 +133,10 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 //
 
-<img width="1896" height="1068" alt="joining of domain" src="https://github.com/user-attachments/assets/f77aa814-1ae8-4870-b97a-bdd513e21234" />
 
-<img width="337" height="181" alt="welcome" src="https://github.com/user-attachments/assets/a4553575-82c5-464d-b5a3-69c676614549" />
+
+/Domain Controller Shared Folder Server
+<img width="1013" height="764" alt="salesdriveonwindwosVm10" src="https://github.com/user-attachments/assets/8cb057d1-dd2c-485b-9a1b-00b1e45bc19c" />
 
 
 --
