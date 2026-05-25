@@ -69,7 +69,8 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ## Network Diagram
 
-(Add diagram image here later)
+<img width="1536" height="1024" alt="network diagram" src="https://github.com/user-attachments/assets/15c070eb-81d1-4703-b8d4-129e9a05122c" />
+
 
 ---
 
