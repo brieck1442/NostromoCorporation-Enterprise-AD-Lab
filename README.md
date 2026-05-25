@@ -63,6 +63,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ### Infrastructure Operations
 - HR onboarding workflow
+- Automated user creation
 - VPN user management
 - Monitoring and ticketing integration
 
