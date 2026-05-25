@@ -149,7 +149,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 --
 
 --
-## How to Deploy Your Own
+## How to Deploy Your Own AD Home Lab
 [Enterprise-AD-HowTo.pdf](https://github.com/user-attachments/files/28232883/Enterprise-AD-HowTo.pdf)
 
 --
