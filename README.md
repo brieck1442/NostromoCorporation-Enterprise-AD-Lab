@@ -88,7 +88,6 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 
 /Groups
-<img width="1028" height="770" alt="complexityrequirements" src="https://github.com/user-attachments/assets/ccd3e215-66f8-4a48-a4ea-813189fa55ab" />
 <img width="1701" height="1020" alt="nested group" src="https://github.com/user-attachments/assets/5b2d0e21-28d9-47a1-a994-396e40cd82f6" />
 
 
