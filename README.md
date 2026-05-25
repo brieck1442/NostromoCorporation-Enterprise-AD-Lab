@@ -12,7 +12,7 @@ Step-by-step creation of an Active Directory (AD) Home Lab Environment simulatin
 - NTFS Permissions
 - PowerShell
 
-- As a side note, the lab will utilize 2 CPU cores for each virtual machine. I put both VMs at 8gb RAM or slightly lower to potimize any way I can but it's really up to you.
+- As a side note, the lab will utilize 2 CPU cores for each virtual machine. I put both VMs at 8gb RAM or slightly lower to otimize any way I can but it's really up to you.
 
 
 
@@ -78,8 +78,9 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 ---
 
 ## Result Screenshots
+Domain Controller Shared Folder Server
+<img width="847" height="772" alt="Screenshot 2026-05-25 104325" src="https://github.com/user-attachments/assets/a24c6ee8-f2f3-4d54-86ca-60b525e9cecf" />
 
-(Add screenshots here later)
 
 --
 ## How to Deploy Your Own
