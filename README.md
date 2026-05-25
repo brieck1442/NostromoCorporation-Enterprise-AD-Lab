@@ -12,6 +12,8 @@ Step-by-step creation of an Active Directory (AD) Home Lab Environment simulatin
 - NTFS Permissions
 - PowerShell
 
+- As a side note, the lab will utilize 2 CPU cores for each virtual machine. I put both VMs at 8gb RAM or slightly lower to potimize any way I can but it's really up to you.
+
 
 
 
