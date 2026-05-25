@@ -79,10 +79,12 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ## Result Screenshots
 Domain Controller Shared Folder Server
-<img width="847" height="772" alt="Screenshot 2026-05-25 104325" src="https://github.com/user-attachments/assets/a24c6ee8-f2f3-4d54-86ca-60b525e9cecf" />
+<img width="1013" height="764" alt="salesdriveonwindwosVm10" src="https://github.com/user-attachments/assets/8cb057d1-dd2c-485b-9a1b-00b1e45bc19c" />
+
 
 Password Policy Object
-<img width="209" height="242" alt="images" src="https://github.com/user-attachments/assets/d4bce302-8b12-47d3-86cb-a8fa9fb5da92" />
+<img width="1904" height="1067" alt="passwordchangepolicy" src="https://github.com/user-attachments/assets/145730b5-44f7-49f4-910f-f1d03d399988" />
+
 
 
 --
