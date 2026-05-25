@@ -14,6 +14,7 @@ Step-by-step creation of an Active Directory (AD) Home Lab Environment simulatin
 
 - As a side note, the lab will utilize 2 CPU cores for each virtual machine. I put both VMs at 8gb RAM or slightly lower to otimize any way I can but it's really up to you and personal preference.
 
+<img width="1536" height="1024" alt="8ac45567-5e53-4f23-b5cf-a722fcf81dad" src="https://github.com/user-attachments/assets/0e066772-371b-4d8b-8b4a-63a951c1242d" />
 
 
 
