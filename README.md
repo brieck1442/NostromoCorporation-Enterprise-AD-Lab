@@ -1,5 +1,10 @@
 # NostromoCorporation-Enterprise-AD-Lab
 Step-by-step creation of an Active Directory (AD) Home Lab Environment simulating a simple corporate business network of 25-50+ users. Utilizing PowerShell, Oracle VM VirtualBox, Windows Server 2022, and Windows 10 Enterprise to create a Domain Controller(Windows Server 2025) and a client (Windows 10) that will simulate an employee's workstation. 
+# Environments Used
+-VM Ware Workstation Pro: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+
+
+
 # Enterprise Active Directory Lab
 
 ## Overview
@@ -13,20 +18,21 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - 1 Domain Controller (AD DS)
 - 1 Windows 10 Workstation VM
 - 1 Monitoring/Ticketing Server
-- 70+ Active Directory User Accounts
-- 10–15 Security Groups
+- 25-50+ Active Directory User Accounts
 - Department Organizational Units (OUs)
+- Group Policy Objects
 - VPN Users
 - Nested Groups
 - Disabled User Management
-- HR Onboarding Workflow
-- Role-Based Access Controls (RBAC)
+- Onboarding Workflow
+- Role-Based Access Controls
 
 ---
 
 ## Technologies Used
 
 - Windows Server 2022
+- Windows 10 Pro
 - Active Directory Domain Services
 - DNS
 - DHCP
@@ -35,7 +41,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - NTFS Permissions
 - PowerShell
 - Windows 10
-- VMware / VirtualBox
+- VMware Pro Workstation
 
 ---
 
@@ -53,6 +59,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - Drive mapping
 - Desktop restrictions
 - Windows update configuration
+- File Redirection
 
 ### File Shares
 - Department shares
