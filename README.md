@@ -12,7 +12,7 @@ Step-by-step creation of an Active Directory (AD) Home Lab Environment simulatin
 - NTFS Permissions
 - PowerShell
 - XAMPP
-- Atera
+- osTicket
 - Apache
 - MySQL
 
