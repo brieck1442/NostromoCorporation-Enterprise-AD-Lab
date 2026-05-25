@@ -102,8 +102,9 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 
 
-//<img width="1028" height="778" alt="group policy management " src="https://github.com/user-attachments/assets/a2f65ece-5c63-46cd-9d7c-ccd7d2bf3a12" />
-GPO overview
+/Group Policy Objects 
+<img width="1028" height="778" alt="group policy management " src="https://github.com/user-attachments/assets/a2f65ece-5c63-46cd-9d7c-ccd7d2bf3a12" />
+
 
 
 
