@@ -85,6 +85,8 @@ Domain Controller Shared Folder Server
 Password Policy Object
 <img width="1904" height="1067" alt="passwordchangepolicy" src="https://github.com/user-attachments/assets/145730b5-44f7-49f4-910f-f1d03d399988" />
 
+This user had to be added to multiple groups as she is a simulated Dual Sales Coordinator 
+<img width="1123" height="654" alt="dualgroup add" src="https://github.com/user-attachments/assets/1bf11fa3-30d6-437b-b3e6-b2d6d7d17d59" />
 
 
 --
