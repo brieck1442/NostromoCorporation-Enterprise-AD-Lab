@@ -83,6 +83,10 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ---
 ## Step By Step
+First, let's get VMWare installed. Head over to this link: VMWare Workstation Pro: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
+Create and Account, and get your version of VMWare Workstation Pro. If you run into trouble, there are plenty of great Youtube tutorials out there. I may say that because there were a couple of videos that really helped me, I will try and link them.
+<img width="1890" height="898" alt="broadcom" src="https://github.com/user-attachments/assets/68b601c8-8c23-4a88-abfa-11021cc84482" />
+
 
 --
 
