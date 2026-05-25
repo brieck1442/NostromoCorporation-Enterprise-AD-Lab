@@ -33,10 +33,10 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - Room for 100+ Active Directory User Accounts
 - Department Organizational Units (OUs)
 - Group Policy Objects
-- VPN Users
-- Nested Groups
-- Onboarding Workflow
+- Nested Groups and VPN users
+- Onboarding & Offboarding Workflow
 - Role-Based Access Controls
+  
 
 ---
 
