@@ -11,6 +11,10 @@ Step-by-step creation of an Active Directory (AD) Home Lab Environment simulatin
 - SMB File Shares
 - NTFS Permissions
 - PowerShell
+- XAMPP
+- Atera
+- Apache
+- MySQL
 
 - As a side note, the lab will utilize 2 CPU cores for each virtual machine. I put both VMs at 8gb RAM or slightly lower to otimize any way I can but it's really up to you and personal preference.
 
