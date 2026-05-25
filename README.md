@@ -121,6 +121,9 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 <img width="1028" height="770" alt="complexityrequirements" src="https://github.com/user-attachments/assets/40b826fd-6f21-4321-b2ae-8411ec594ceb" />
 
 
+/Shared printer to H drive item targeting
+<img width="1022" height="770" alt="printertargeting1" src="https://github.com/user-attachments/assets/d6b27fc8-77b2-4767-937d-86f2beecd1bc" />
+<img width="1056" height="778" alt="printer targeting2" src="https://github.com/user-attachments/assets/8c6b1d80-c80c-40e1-9536-8a11e0d31099" />
 
 
 
