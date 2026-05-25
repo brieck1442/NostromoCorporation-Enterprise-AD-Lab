@@ -82,11 +82,32 @@ Domain Controller Shared Folder Server
 <img width="1013" height="764" alt="salesdriveonwindwosVm10" src="https://github.com/user-attachments/assets/8cb057d1-dd2c-485b-9a1b-00b1e45bc19c" />
 
 
+
+
+
+
 Password Policy Object
 <img width="1904" height="1067" alt="passwordchangepolicy" src="https://github.com/user-attachments/assets/145730b5-44f7-49f4-910f-f1d03d399988" />
 
+
+
+
+
+
+
 This user had to be added to multiple groups as she is a simulated Dual Sales Coordinator 
 <img width="1123" height="654" alt="dualgroup add" src="https://github.com/user-attachments/assets/1bf11fa3-30d6-437b-b3e6-b2d6d7d17d59" />
+
+
+
+
+
+
+
+
+<img width="1896" height="1068" alt="joining of domain" src="https://github.com/user-attachments/assets/f77aa814-1ae8-4870-b97a-bdd513e21234" />
+
+<img width="337" height="181" alt="welcome" src="https://github.com/user-attachments/assets/a4553575-82c5-464d-b5a3-69c676614549" />
 
 
 --
