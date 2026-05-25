@@ -77,8 +77,8 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ---
 
-### Result Screenshots
-##Domain Controller Shared Folder Server
+## Result Screenshots
+/Domain Controller Shared Folder Server
 <img width="1013" height="764" alt="salesdriveonwindwosVm10" src="https://github.com/user-attachments/assets/8cb057d1-dd2c-485b-9a1b-00b1e45bc19c" />
 
 
@@ -86,7 +86,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 
 
-Password Policy Object
+/Password Policy Object
 <img width="1904" height="1067" alt="passwordchangepolicy" src="https://github.com/user-attachments/assets/145730b5-44f7-49f4-910f-f1d03d399988" />
 
 
@@ -95,7 +95,7 @@ Password Policy Object
 
 
 
-This user had to be added to multiple groups as she is a simulated Dual Sales Coordinator 
+/This user had to be added to multiple groups as she is a simulated Dual Sales Coordinator 
 <img width="1123" height="654" alt="dualgroup add" src="https://github.com/user-attachments/assets/1bf11fa3-30d6-437b-b3e6-b2d6d7d17d59" />
 
 
@@ -103,7 +103,7 @@ This user had to be added to multiple groups as she is a simulated Dual Sales Co
 
 
 
-
+//
 
 <img width="1896" height="1068" alt="joining of domain" src="https://github.com/user-attachments/assets/f77aa814-1ae8-4870-b97a-bdd513e21234" />
 
@@ -112,6 +112,7 @@ This user had to be added to multiple groups as she is a simulated Dual Sales Co
 
 --
 ## How to Deploy Your Own
+Coming soon!
 --
 
 ## Future Improvements
