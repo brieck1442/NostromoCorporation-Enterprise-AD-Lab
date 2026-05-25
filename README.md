@@ -150,7 +150,34 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 --
 
 ##Ticketing System
-!Coming soon
+//Used XAMPP, Apache, and MYSQL to get this web server running. Took quite a bit of troubleshooting but was happy when it was done. This is where the client will open a ticket.
+<img width="1903" height="1079" alt="open a ticket" src="https://github.com/user-attachments/assets/fd66338b-c441-4eca-ade0-ba37a5775cc6" />
+<img width="1647" height="942" alt="Screenshot 2026-05-25 182614" src="https://github.com/user-attachments/assets/f82a78db-e325-4a6d-93a5-cb99231eaad4" />
+
+
+//Check tickt status
+<img width="1699" height="938" alt="checking ticket status" src="https://github.com/user-attachments/assets/ac74f17e-dfb2-4281-9ce4-13d3139a9305" />
+
+
+
+//Email system
+<img width="1683" height="921" alt="Screenshot 2026-05-25 183328" src="https://github.com/user-attachments/assets/c0ddd79b-b2f6-418d-90dd-40550a53f63e" />
+
+<img width="1651" height="837" alt="Screenshot 2026-05-25 183312" src="https://github.com/user-attachments/assets/8ecdc556-7eea-49b4-a1d5-f2088581112f" />
+
+
+
+
+
+//Split up departments
+<img width="1704" height="1016" alt="Screenshot 2026-05-25 183442" src="https://github.com/user-attachments/assets/b1a5ce06-f5f4-46c1-98ba-94c4abdd74e3" />
+
+SLAs
+<img width="972" height="175" alt="SLA" src="https://github.com/user-attachments/assets/7ccee899-7ca3-4b43-a4b8-674f2a1cd164" />
+
+
+
+
 --
 
 --
