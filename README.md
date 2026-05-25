@@ -159,5 +159,5 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - Azure AD / Entra ID integration
 - Hybrid identity
 - WSUS deployment
-- PowerShell automation
+- Ticketing System
 - SIEM integration
