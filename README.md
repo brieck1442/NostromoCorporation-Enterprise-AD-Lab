@@ -77,22 +77,12 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ---
 
-## Results
+## Result Screenshots
 
 (Add screenshots here later)
 
----
-## Step By Step
-1. First, let's get VMWare installed. Head over to this link: VMWare Workstation Pro: https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion
-Create and Account, and get your version of VMWare Workstation Pro. If you run into trouble, there are plenty of great Youtube tutorials out there. I may say that because there were a couple of videos that really helped me, I will try and link them.
-<img width="1890" height="898" alt="broadcom" src="https://github.com/user-attachments/assets/68b601c8-8c23-4a88-abfa-11021cc84482" />
-2. Great, now you should have VMWare loaded up like so. 
-<img width="1916" height="1077" alt="vmware" src="https://github.com/user-attachments/assets/956dec2e-ca8f-4a12-8d4d-58ad0f96276e" />
-3. Downloading Windows Server 2022 ISO file :
-  <img width="1883" height="964" alt="iso" src="https://github.com/user-attachments/assets/44e27dfc-67db-426c-b334-f8c40cfe5127" />
- 
-
-
+--
+## How to Deploy Your Own
 --
 
 ## Future Improvements
