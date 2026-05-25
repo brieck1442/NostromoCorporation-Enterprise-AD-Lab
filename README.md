@@ -53,13 +53,13 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 ### Group Policy
 - Password policies
 - Drive mapping
+- Printing
 - Desktop restrictions
 - Windows update configuration
 - File Redirection
 
 ### File Shares
 - Department shares
-- Hidden SMB shares
 - Role-based access permissions
 - NTFS security permissions
 
@@ -77,11 +77,14 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 ---
 
-## Screenshots
+## Results
 
 (Add screenshots here later)
 
 ---
+## Step By Step
+
+--
 
 ## Future Improvements
 
