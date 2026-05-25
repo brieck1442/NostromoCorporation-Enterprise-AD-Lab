@@ -88,7 +88,9 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 
 /Groups
-<img width="1693" height="988" alt="groups" src="https://github.com/user-attachments/assets/ddee7f47-0627-4ce7-a45f-a151279ad1ec" />
+<img width="1028" height="770" alt="complexityrequirements" src="https://github.com/user-attachments/assets/ccd3e215-66f8-4a48-a4ea-813189fa55ab" />
+<img width="1701" height="1020" alt="nested group" src="https://github.com/user-attachments/assets/5b2d0e21-28d9-47a1-a994-396e40cd82f6" />
+
 
 
 
@@ -117,6 +119,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 /Password Policy Object
 <img width="1904" height="1067" alt="passwordchangepolicy" src="https://github.com/user-attachments/assets/145730b5-44f7-49f4-910f-f1d03d399988" />
+<img width="1028" height="770" alt="complexityrequirements" src="https://github.com/user-attachments/assets/40b826fd-6f21-4321-b2ae-8411ec594ceb" />
 
 
 
@@ -131,8 +134,6 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 
 
-
-//
 
 
 
