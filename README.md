@@ -47,7 +47,6 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - Department OUs
 - Security groups
 - Nested groups
-- Disabled account management
 
 ### Group Policy
 - Password policies
