@@ -26,7 +26,7 @@ Creation of an Active Directory (AD) Home Lab Environment simulating a simple co
 
 ## Overview
 
-Built a simulated enterprise Windows infrastructure environment using Active Directory, Group Policy, SMB file shares, role-based access controls, and monitoring systems.
+Built a simulated enterprise Windows infrastructure environment using Active Directory, Group Policy, SMB file shares, role-based access controls, and ticketing system.
 
 ---
 
