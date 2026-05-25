@@ -151,7 +151,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 ##Ticketing System
 --
 
-//Used XAMPP, Apache, and MYSQL to get this web server running. Took quite a bit of troubleshooting but was happy when it was done. This is where the client will open a ticket.
+//Used XAMPP, Apache, and MYSQL to get this web server running. Took quite a bit of troubleshooting but was happy when it was done. This is where the client will open a ticket. Users can successfully make tickets and categorize themselves, tickets automatically pop up in service email and email you activated upon installation. 
 <img width="1903" height="1079" alt="open a ticket" src="https://github.com/user-attachments/assets/fd66338b-c441-4eca-ade0-ba37a5775cc6" />
 <img width="1647" height="942" alt="Screenshot 2026-05-25 182614" src="https://github.com/user-attachments/assets/f82a78db-e325-4a6d-93a5-cb99231eaad4" />
 
@@ -166,6 +166,10 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 <img width="1651" height="837" alt="Screenshot 2026-05-25 183312" src="https://github.com/user-attachments/assets/8ecdc556-7eea-49b4-a1d5-f2088581112f" />
 
+
+
+Resolved
+<img width="1704" height="1012" alt="archive" src="https://github.com/user-attachments/assets/8f1fcf77-8fed-4eab-8dd1-69717ad617ad" />
 
 
 
