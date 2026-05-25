@@ -191,7 +191,7 @@ SLAs
 
 --
 
-## Future Improvements
+## Future Improvement Ideas
 
 - Azure AD / Entra ID integration
 - Hybrid identity
