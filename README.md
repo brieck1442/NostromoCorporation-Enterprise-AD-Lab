@@ -148,14 +148,15 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 <img width="1013" height="764" alt="salesdriveonwindwosVm10" src="https://github.com/user-attachments/assets/8cb057d1-dd2c-485b-9a1b-00b1e45bc19c" />
 
 --
-
 ##Ticketing System
+--
+
 //Used XAMPP, Apache, and MYSQL to get this web server running. Took quite a bit of troubleshooting but was happy when it was done. This is where the client will open a ticket.
 <img width="1903" height="1079" alt="open a ticket" src="https://github.com/user-attachments/assets/fd66338b-c441-4eca-ade0-ba37a5775cc6" />
 <img width="1647" height="942" alt="Screenshot 2026-05-25 182614" src="https://github.com/user-attachments/assets/f82a78db-e325-4a6d-93a5-cb99231eaad4" />
 
 
-//Check tickt status
+//Check ticket status
 <img width="1699" height="938" alt="checking ticket status" src="https://github.com/user-attachments/assets/ac74f17e-dfb2-4281-9ce4-13d3139a9305" />
 
 
