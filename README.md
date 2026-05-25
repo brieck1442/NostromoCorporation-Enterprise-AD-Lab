@@ -112,7 +112,8 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 
 --
 ## How to Deploy Your Own
-Coming soon!
+[Enterprise-AD-HowTo.pdf](https://github.com/user-attachments/files/28232883/Enterprise-AD-HowTo.pdf)
+
 --
 
 ## Future Improvements
