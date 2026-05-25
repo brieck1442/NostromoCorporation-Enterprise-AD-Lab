@@ -30,7 +30,7 @@ Built a simulated enterprise Windows infrastructure environment using Active Dir
 - 1 Domain Controller (AD DS)
 - 1 Windows 10 Workstation VM
 - 1 Monitoring/Ticketing Server
-- 25-50+ Active Directory User Accounts
+- Room for 100+ Active Directory User Accounts
 - Department Organizational Units (OUs)
 - Group Policy Objects
 - VPN Users
